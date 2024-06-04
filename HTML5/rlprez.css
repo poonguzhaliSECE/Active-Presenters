@@ -1,0 +1,19 @@
+/*!
+ * ActivePresenter HTML5 Output File
+ * Copyright (c) Atomi Systems, Inc. All rights reserved.
+ * https://atomisystems.com/activepresenter/
+ * Version: 7.6.1
+ * Date: 2022.03.08
+ */
+#GfgjO7X2 .ap-focused {
+	outline: 1px dashed black;
+	outline-offset: 1px;
+}
+#GfgjO7X2 p {
+	margin: 0;
+}
+#GfgjO7X2 ol,ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
